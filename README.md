@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **dora1234priyank@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-crazy-hard-typing-mad-gif-7866344&psig=AOvVaw2NJKq7NlKZTZPBq7nFy-bb&ust=1666116673059000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjC-LXu5_oCFQAAAAAdAAAAABAO">
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c9…624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyankadora17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankadora17" height="30" width="40" /></a>
