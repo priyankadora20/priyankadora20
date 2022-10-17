@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<img align="centre" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hi 👋, I'm PRIYANKA DORA</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **dora1234priyank@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-crazy-hard-typing-mad-gif-7866344&psig=AOvVaw2NJKq7NlKZTZPBq7nFy-bb&ust=1666116673059000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjC-LXu5_oCFQAAAAAdAAAAABAO">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/priyankadora17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankadora17" height="30" width="40" /></a>
