@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 
 <p align="left">
 
