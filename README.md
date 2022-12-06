@@ -11,7 +11,7 @@
 
 - All my projects available at :  https://github.com/priyankadora20
 
-- 📫 How to reach me **dora1234priyank@gmail.com**
+- 📫 How to reach me **dora1234priyanka@gmail.com**
 
 - fun fact : i like draw !!! and guess what i can draw your face !! Hopefully..
 
