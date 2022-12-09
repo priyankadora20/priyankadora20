@@ -17,7 +17,7 @@
 
 - Quote :  [ Everthing happens for a reason but don't forget give your best ] 
 
-<img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="centre" alt="Coding" width="600" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankadora20&show_icons=true&locale=en&layout=compact" alt="priyankadora20" /></p>
