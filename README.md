@@ -9,7 +9,7 @@
 - 🔭 know me more **Resume**
 - 🌱 I’m currently learning **React.js**
 
-- All my projects available at :  https://github.com/priyankadora20
+- All my projects available at :-  https://github.com/priyankadora20
 
 - 📫 How to reach me **dora1234priyanka@gmail.com**
 
