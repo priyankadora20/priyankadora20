@@ -17,12 +17,14 @@
 
 - Quote :  [ Everthing happens for a reason but don't forget give your best ] 
 
+<h3>Contact Me:</h3>
+
+<p align="left"> <a href="https://www.linkedin.com/in/priyanka-dora-020sept1997/" target="blank"></a> Linkedin</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankadora20&show_icons=true&locale=en&layout=compact" alt="priyankadora20" /></p>
-
-
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=priyankadora20&show_icons=true&locale=en" alt="priyankadora20" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyankadora20&show_icons=true&locale=en" alt="priyankadora20" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankadora20&" alt="priyankadora20" /></p>
 
