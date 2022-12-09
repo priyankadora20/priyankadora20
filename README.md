@@ -19,7 +19,7 @@
 
 <h3>Contact Me:</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/priyanka-dora-020sept1997/" target="blank"><p>Linkedin</p></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/priyanka-dora-020sept1997/" target="blank">Linkedin</a> </p>
 
 
 
