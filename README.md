@@ -22,8 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankadora20&show_icons=true&locale=en&layout=compact" alt="priyankadora20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankadora20&show_icons=true&locale=en" alt="priyankadora20" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=priyankadora20&show_icons=true&locale=en" alt="priyankadora20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankadora20&" alt="priyankadora20" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankadora20&" alt="priyankadora20" /></p>
 
 <img src="https://gist.github.com/MedRedha/fd8e248…/raw/88624e8…/coding.gif" alt="coding.if" style="user-select: auto;">
