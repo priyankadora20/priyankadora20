@@ -19,6 +19,8 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankadora20&show_icons=true&locale=en&layout=compact" alt="priyankadora20" /></p>
+
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=priyankadora20&show_icons=true&locale=en" alt="priyankadora20" /></p>
 
@@ -26,4 +28,4 @@
 
 <img src="https://gist.github.com/MedRedha/fd8e248…/raw/88624e8…/coding.gif" alt="coding.if" style="user-select: auto;">
 
-<img align="centre" alt="Coding" width="100%" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="centre" alt="Coding" width="50%" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
