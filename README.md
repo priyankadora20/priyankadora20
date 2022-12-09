@@ -24,7 +24,7 @@
 <p align="left"> <a href="https://github.com/priyankadora20" target="_blank">Github</a> </p>
 
 <h3>Skills :</h3>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width:"10%"/>
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="10%"/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankadora20&show_icons=true&locale=en&layout=compact" alt="priyankadora20" /></p>
