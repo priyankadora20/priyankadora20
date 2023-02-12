@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dora1234priyanka@gmail.com**
 
-- fun fact : i like draw !!! and guess what i can draw your face !! Hopefully..
+- fun fact : i like draw !!! and guess what i can draw your face !! Hopefully..!!!
 
 - Quote :  [ Everthing happens for a reason but don't forget give your best ] 
 
