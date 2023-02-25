@@ -2,7 +2,7 @@
 <h1 align="center">Hello people,  I 'm  PRIYANKA DORA .</h1>
 <h3 align="center">A passionate full stack web developer with a Creative mind.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankadora20&label=Profile%20views&color=0e75b6&style=flat" alt="priyankadora20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankadora20&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaaaadora20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/priyankadora17" target="blank"><img src="https://img.shields.io/twitter/follow/priyankadora17?logo=twitter&style=for-the-badge" alt="priyankadora17" /></a> </p>
 
