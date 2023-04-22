@@ -17,7 +17,7 @@
 
 - Quote :  [ Everthing happens for a reason but don't forget give your best ] 
 
-<h3>Contact Me:</h3>
+<h3>Contact Me :</h3>
 
 <p align="left"> <a href="https://www.linkedin.com/in/priyanka-dora-020sept1997/" target="_blank">Linkedin</a> </p>
 <p align="left"> <a href="https://twitter.com/priyankadora17" target="_blank">Twitter</a> </p>
