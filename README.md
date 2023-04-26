@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyankadora17" target="blank"><img src="https://img.shields.io/twitter/follow/priyankadora17?logo=twitter&style=for-the-badge" alt="priyankadora17" /></a> </p>
 
-- 🔭 know me more **Resume**
+
 - 🌱 I’m currently learning **React.js**
 
 - All my projects available at :-  https://github.com/priyankadora20
