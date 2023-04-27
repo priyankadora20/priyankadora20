@@ -28,12 +28,14 @@
 <div display="grid" grid-template-columns="repeat(6,1fr)" >
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="10%"/>
   
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvALbZurFRWdfNN3CrTXJ3Gt0cQzm0TdBcHQ&usqp=CAU" width="10%"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="10%"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ius7-Jh63wNY2IEkn_za_L-jmfEt5kKNUEkSlpN7e5iABYZVH-Jbn-YADH4JT3W1-20&usqp=CAU" width="10%"/>
- <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem-640x400.jpg" width="10%"/>
- <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" width="10%"/>
-<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="10%"/><img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="10%"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="10%"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILwHh21Dky51ePyPy2V_qsPeQWd5n136Sa8PQuhIMmOGLpprK6Zt7qWn9cRL21LE3RzM&usqp=CAU" width="10%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvALbZurFRWdfNN3CrTXJ3Gt0cQzm0TdBcHQ&usqp=CAU" width="10%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="10%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ius7-Jh63wNY2IEkn_za_L-jmfEt5kKNUEkSlpN7e5iABYZVH-Jbn-YADH4JT3W1-20&usqp=CAU" width="10%"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem-640x400.jpg" width="10%"/>
+<img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" width="10%"/>
+<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" width="10%"/><img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="10%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="10%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILwHh21Dky51ePyPy2V_qsPeQWd5n136Sa8PQuhIMmOGLpprK6Zt7qWn9cRL21LE3RzM&usqp=CAU" width="10%"/>
 </div>
   
   
