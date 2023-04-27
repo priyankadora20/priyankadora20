@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- All my projects available at :- [ https://github.com/priyankadora20](https://priyankadora20.github.io/)
+- All my projects available at : https://priyankadora20.github.io
 
 - 📫 How to reach me **dora1234priyanka@gmail.com**
 
