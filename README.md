@@ -38,4 +38,14 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILwHh21Dky51ePyPy2V_qsPeQWd5n136Sa8PQuhIMmOGLpprK6Zt7qWn9cRL21LE3RzM&usqp=CAU" width="10%"/>
 </div>
   
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankadora20&show_icons=true&locale=en&layout=compact" alt="priyankadora20" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyankadora20&show_icons=true&locale=en" alt="priyankadora20" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankadora20&" alt="priyankadora20" /></p>
+
+<img src="https://gist.github.com/MedRedha/fd8e248…/raw/88624e8…/coding.gif" alt="coding.if" style="user-select: auto;">
+
+
+
   
