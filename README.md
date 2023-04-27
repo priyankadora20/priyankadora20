@@ -47,4 +47,4 @@
 
 <img src="https://gist.github.com/MedRedha/fd8e248…/raw/88624e8…/coding.gif" alt="coding.if" style="user-select: auto;">
 
-<img align="centre" alt="Coding" width="50%" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+
