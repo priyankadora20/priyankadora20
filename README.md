@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/priyanka-dora-020sept1997/" target="_blank">Linkedin</a> </p>
 <p align="left"> <a href="https://twitter.com/priyankadora17" target="_blank">Twitter</a> </p>
-<p align="left"> <a href="https://github.com/priyankadora20" target="_blank">Github</a> </p>
+
 
 <h3>Skills :</h3>
 <div display="grid" grid-template-columns="repeat(6,1fr)" >
