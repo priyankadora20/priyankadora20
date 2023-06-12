@@ -1,5 +1,5 @@
 <img align="centre" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg">
-<h1 align="center">Hello people,  I 'm  PRIYANKA DORA .</h1>
+<h1 align="center">Hello people,  I 'm   PRIYANKA DORA .</h1>
 <h3 align="center">A passionate full stack web developer with a Creative mind.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankadora20&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaaaadora20" /> </p>
