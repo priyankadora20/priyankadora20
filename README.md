@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- All my projects available at : https://priyankadora20.github.io/
+- All my projects available at :
 
-- 📫 How to reach me **dora1234priyanka@gmail.com**
+- 📫 How to reach me **prdora97@gmail.com**
 
 - fun fact : I like to draw and guess what I can draw your face as well .
 
