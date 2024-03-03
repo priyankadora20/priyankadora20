@@ -8,7 +8,7 @@
 
 - 🔭 know me more **Resume**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Angular.js**
 
 - All my projects available at :
 
